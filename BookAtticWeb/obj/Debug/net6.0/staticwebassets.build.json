@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YUMe26gZo5RT6NqXHgIyTyW8Ko5MuhkmnJL/I6BFUhM=",
+  "Hash": "kEtoobfG9TcBlwpEeyiG6YpHYgPh5yVlpxsbQ6Lmn0k=",
   "Source": "BookAtticWeb",
   "BasePath": "_content/BookAtticWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookAtticWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "SourceId": "BookAtticWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\wwwroot\\",
+      "BasePath": "_content/BookAtticWeb",
+      "RelativePath": "css/bootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchTheme.css"
     },
     {
       "Identity": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\wwwroot\\css\\site.css",

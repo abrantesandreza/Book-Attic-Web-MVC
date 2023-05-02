@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\BookAtticWeb.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
       "Id": "C:\\Users\\SMN\\Desktop\\andreza\\bookAttic\\BookAtticWeb\\BookAtticWeb\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
