@@ -29,4 +29,9 @@ In this book category system, users have the ability to delete an existing categ
 
 ![4](https://user-images.githubusercontent.com/87620471/236274437-d7d7d4aa-a97a-4fd0-b67a-b9a0f51fedfb.png)
 
+## Toastr Alerts:
+
+Toastr alerts are used in this book category system to provide real-time notifications to users when an action has been completed, such as creating, editing, or deleting a category. These alerts are designed to be unobtrusive but attention-grabbing, appearing briefly in the corner of the user's screen before disappearing. Toastr alerts provide a convenient and user-friendly way to keep users informed and up-to-date on the status of their actions within the system.
+
+![5](https://user-images.githubusercontent.com/87620471/236274744-30a3cf57-e0c5-4be6-99c5-fe9fa7bf3275.png)
 
