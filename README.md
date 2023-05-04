@@ -27,7 +27,7 @@ Users can easily modify an existing category by selecting the "Edit Category" op
 
 In this book category system, users have the ability to delete an existing category by selecting the "Delete Category" option from the system menu. Upon confirmation, the category and all associated books will be permanently removed from the system. This feature helps users to maintain an up-to-date and relevant list of book categories.
 
-![4](https://user-images.githubusercontent.com/87620471/236274437-d7d7d4aa-a97a-4fd0-b67a-b9a0f51fedfb.png)
+![4 1](https://user-images.githubusercontent.com/87620471/236275271-64bb9700-9d7d-44f8-822b-99394130677f.png)
 
 ## Toastr Alerts:
 
@@ -35,3 +35,4 @@ Toastr alerts are used in this book category system to provide real-time notific
 
 ![5](https://user-images.githubusercontent.com/87620471/236274744-30a3cf57-e0c5-4be6-99c5-fe9fa7bf3275.png)
 
+In conclusion, this book category system is a powerful and user-friendly tool for organizing and managing book categories. With features such as the ability to create, edit, and delete categories, as well as real-time Toastr alerts, users can easily and efficiently maintain an up-to-date and relevant list of book categories. The system was developed using cutting-edge technologies such as C#, ASP.NET Core MVC, Entity Framework, and SQL Server database, providing a robust and scalable platform capable of handling large amounts of book information. Overall, this system offers a comprehensive solution for managing book categories and can be a valuable asset for individuals and organizations alike.
