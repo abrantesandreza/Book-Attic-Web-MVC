@@ -16,3 +16,17 @@ In this book category system, there is a feature that allows users to list all r
 In this book category system, users can create a new category easily by clicking on the "Create New Category" button. The system will prompt users to provide the necessary information, such as the category name and display order. Once created, the new category will be available for use in organizing and managing books.
 
 ![2](https://user-images.githubusercontent.com/87620471/236273994-5c7cc6ab-2d1e-4eb3-9d30-13c16244723d.png)
+
+## Edit Category:
+
+Users can easily modify an existing category by selecting the "Edit Category" option from the system menu. This will allow users to update the category name, display order, or other relevant information. Once saved, the changes will be reflected throughout the system and any associated books will be reorganized accordingly.
+
+![3](https://user-images.githubusercontent.com/87620471/236274222-813d4efb-6d4a-4bef-a42c-87e0025d1d4b.png)
+
+## Delete Category:
+
+In this book category system, users have the ability to delete an existing category by selecting the "Delete Category" option from the system menu. Upon confirmation, the category and all associated books will be permanently removed from the system. This feature helps users to maintain an up-to-date and relevant list of book categories.
+
+![4](https://user-images.githubusercontent.com/87620471/236274437-d7d7d4aa-a97a-4fd0-b67a-b9a0f51fedfb.png)
+
+
